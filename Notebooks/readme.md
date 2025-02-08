@@ -39,6 +39,8 @@ Clustering algorithms group similar data points together. Common algorithms incl
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+- [ml-cheetsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
+
 
 ---
 🚀 **Happy Learning!** Feel free to contribute more resources and implementations to this repository!

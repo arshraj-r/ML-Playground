@@ -3,8 +3,14 @@
 This repository contains implementations and explanations of various Machine Learning algorithms categorized into **Classification, Regression, and Clustering**. Below are useful blog links for learning these algorithms.
 
 ## 📌 Classification Algorithms
-Classification algorithms are used for categorizing data into predefined classes. Common algorithms include Logistic Regression, Decision Trees, Random Forest, SVM, and Neural Networks.
+Classification algorithms are used for categorizing data into predefined classes.
+### Algorithms:
+1) [Decision Tree](https://scikit-learn.org/stable/modules/tree)
 
+2) [Support Vector Machines](https://scikit-learn.org/stable/modules/svm)
+3) [Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd)
+4) [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes)
+5) [Ensemble Models](https://scikit-learn.org/stable/modules/ensemble)
 ### 🔗 Useful Blogs:
 - [A Guide to Classification Algorithms in Machine Learning](https://towardsdatascience.com/a-guide-to-classification-algorithms-in-machine-learning-82d3f7c0a30)
 - [Understanding Decision Trees](https://towardsdatascience.com/understanding-decision-trees-2f6355b1a0e)

@@ -5,6 +5,7 @@ Welcome to the **Machine Learning Algorithms** repository! This project aims to 
 ## Table of Contents
 
 - [Overview](#overview)
+- [DataSets] (#datasets)
 - [Algorithms](#algorithms)
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
@@ -21,7 +22,30 @@ This repository is designed for practitioners, researchers, and enthusiasts to e
   
 - **Unsupervised learning** algorithms work with unlabeled data and focus on finding underlying structures such as clusters or patterns in the data.
 
-## Algorithms
+## DataSets
+I have created classes to import the data and split it into train-test. These classes are further used in my codes to import data.
+The Sorces used for Data are:
+# Popular Datasets for Regression
+
+Here are some popular datasets for regression available from various sources:
+
+1. **[Scikit-learn Datasets](https://scikit-learn.org/stable/datasets/)**
+   - Includes datasets like the **Boston Housing**, **Diabetes**, and **California Housing** datasets.
+
+2. **[Kaggle Datasets](https://www.kaggle.com/datasets)**
+   - Kaggle offers a variety of datasets for regression tasks, including **House Prices** and **Titanic**.
+
+3. **[OpenML](https://www.openml.org)**
+   - OpenML is a platform with numerous datasets for machine learning, including datasets for regression.
+
+4. **[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)**
+   - A long-established repository of datasets, including those for regression tasks such as **Wine Quality** and **Energy Efficiency**.
+
+5. **[Statsmodels Datasets](https://www.statsmodels.org/stable/datasets/index.html)**
+   - Provides datasets for statistical modeling, including regression datasets.
+
+6. **[Seaborn Datasets](https://seaborn.pydata.org/generated/seaborn.load_dataset.html)**
+   - Seaborn includes datasets for regression such as the **Tips** and **Diamonds** datasets.
 
 ### Supervised Learning
 These algorithms are trained using labeled datasets. The model learns to map inputs to the correct outputs. Key algorithms in this category include:

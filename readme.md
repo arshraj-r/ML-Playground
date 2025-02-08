@@ -5,7 +5,7 @@ Welcome to the **Machine Learning Algorithms** repository! This project aims to 
 ## Table of Contents
 
 - [Overview](#overview)
-- [DataSets] (#datasets)
+- [DataSets](#datasets)
 - [Algorithms](#algorithms)
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)

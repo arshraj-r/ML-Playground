@@ -1,47 +1,132 @@
-# Machine Learning Algorithms
+## **1. Supervised Learning** (Labeled Data)
 
-This repository contains implementations and explanations of various Machine Learning algorithms categorized into **Classification, Regression, and Clustering**. Below are useful blog links for learning these algorithms.
+### **A. Classification Algorithms**
 
-## 📌 Classification Algorithms
-Classification algorithms are used for categorizing data into predefined classes.
-### Algorithms:
-1) [Decision Tree](https://scikit-learn.org/stable/modules/tree)
+1. **Logistic Regression**
+2. **k-Nearest Neighbors (k-NN)**
+3. **Naive Bayes** (Gaussian, Multinomial, Bernoulli)
+4. **Decision Trees**
+5. **Random Forest**
+6. **Gradient Boosting Machines (GBM)**
+7. **XGBoost (Extreme Gradient Boosting)**
+8. **LightGBM**
+9. **CatBoost**
+10. **Support Vector Machine (SVM)**
+11. **Artificial Neural Networks (ANNs)**
 
-2) [Support Vector Machines](https://scikit-learn.org/stable/modules/svm)
-3) [Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd)
-4) [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes)
-5) [Ensemble Models](https://scikit-learn.org/stable/modules/ensemble)
-### 🔗 Useful Blogs:
-- [A Guide to Classification Algorithms in Machine Learning](https://towardsdatascience.com/a-guide-to-classification-algorithms-in-machine-learning-82d3f7c0a30)
-- [Understanding Decision Trees](https://towardsdatascience.com/understanding-decision-trees-2f6355b1a0e)
-- [Support Vector Machines Explained](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
-- [A Beginner’s Guide to Neural Networks](https://www.analyticsvidhya.com/blog/2021/04/neural-networks-guide-for-beginners/)
+### **B. Regression Algorithms**
 
-## 📌 Regression Algorithms
-Regression algorithms predict continuous values based on input data. Examples include Linear Regression, Polynomial Regression, Ridge Regression, and Lasso Regression.
-
-### 🔗 Useful Blogs:
-- [A Complete Guide to Regression in Machine Learning](https://towardsdatascience.com/a-complete-guide-to-regression-in-machine-learning-89d54efcc226)
-- [Understanding Linear Regression](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
-- [Ridge vs Lasso Regression](https://www.analyticsvidhya.com/blog/2020/03/complete-guide-regression-models/)
-- [Polynomial Regression Explained](https://towardsdatascience.com/polynomial-regression-bbe8b9d97491)
-
-## 📌 Clustering Algorithms
-Clustering algorithms group similar data points together. Common algorithms include K-Means, DBSCAN, and Hierarchical Clustering.
-
-### 🔗 Useful Blogs:
-- [Clustering in Machine Learning](https://towardsdatascience.com/clustering-in-machine-learning-3c6be31d0b63)
-- [A Guide to K-Means Clustering](https://machinelearningmastery.com/k-means-clustering-in-python/)
-- [DBSCAN Clustering Algorithm](https://www.analyticsvidhya.com/blog/2020/09/dbscan-clustering-algorithm-machine-learning/)
-- [Hierarchical Clustering Explained](https://towardsdatascience.com/hierarchical-clustering-explained-and-visualized-5d6fa3954d47)
-
-## 📚 Additional Learning Resources
-- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
-- [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
-- [ml-cheetsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
-
+1. **Linear Regression**
+2. **Ridge Regression (L2 Regularization)**
+3. **Lasso Regression (L1 Regularization)**
+4. **Elastic Net Regression**
+5. **Polynomial Regression**
+6. **Support Vector Regression (SVR)**
+7. **Decision Tree Regressor**
+8. **Random Forest Regressor**
+9. **Gradient Boosting Regressor**
+10. **XGBoost Regressor**
+11. **LightGBM Regressor**
+12. **Bayesian Regression**
 
 ---
-🚀 **Happy Learning!** Feel free to contribute more resources and implementations to this repository!
 
+## **2. Unsupervised Learning** (Unlabeled Data)
+
+### **A. Clustering Algorithms**
+
+1. **k-Means Clustering**
+2. **Hierarchical Clustering (Agglomerative & Divisive)**
+3. **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
+4. **Mean Shift Clustering**
+5. **Gaussian Mixture Models (GMM)**
+6. **Affinity Propagation**
+7. **Spectral Clustering**
+
+### **B. Dimensionality Reduction**
+
+1. **Principal Component Analysis (PCA)**
+2. **Singular Value Decomposition (SVD)**
+3. **t-Distributed Stochastic Neighbor Embedding (t-SNE)**
+4. **Linear Discriminant Analysis (LDA)**
+5. **Factor Analysis**
+6. **Autoencoders (Neural Network-Based)**
+7. **UMAP (Uniform Manifold Approximation and Projection)**
+
+### **C. Anomaly Detection Algorithms**
+
+1. **Isolation Forest**
+2. **One-Class SVM**
+3. **Local Outlier Factor (LOF)**
+4. **Elliptic Envelope**
+5. **Autoencoders for Anomaly Detection**
+
+---
+
+## **3. Reinforcement Learning** (Sequential Decision Making)
+
+1. **Q-Learning**
+2. **Deep Q-Networks (DQN)**
+3. **SARSA (State-Action-Reward-State-Action)**
+4. **Policy Gradient Methods (REINFORCE)**
+5. **Actor-Critic Methods (A2C, PPO, DDPG, TD3, SAC)**
+
+---
+
+## **4. Ensemble Learning Methods**
+
+1. **Bagging (Bootstrap Aggregating)**
+2. **Boosting (AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost)**
+3. **Stacking (Stacked Generalization)**
+4. **Voting Classifier & Voting Regressor**
+
+---
+
+## **5. Deep Learning Algorithms**
+
+### **A. Feedforward Neural Networks (FNN)**
+
+1. **Multi-Layer Perceptron (MLP)**
+
+### **B. Convolutional Neural Networks (CNNs) – for Images**
+
+1. **AlexNet**
+2. **VGGNet (VGG-16, VGG-19)**
+3. **ResNet (Residual Networks)**
+4. **Inception Network**
+5. **EfficientNet**
+6. **MobileNet**
+7. **Vision Transformers (ViTs)**
+
+### **C. Recurrent Neural Networks (RNNs) – for Sequences**
+
+1. **Vanilla RNN**
+2. **Long Short-Term Memory (LSTM)**
+3. **Gated Recurrent Unit (GRU)**
+4. **Bidirectional RNN/LSTM/GRU**
+5. **Transformers (BERT, GPT, T5, etc.)**
+
+### **D. Generative Models**
+
+1. **Generative Adversarial Networks (GANs)**
+2. **Variational Autoencoders (VAEs)**
+
+---
+
+## **6. Specialized ML Techniques**
+
+1. **Time Series Forecasting Algorithms**
+    - **ARIMA (AutoRegressive Integrated Moving Average)**
+    - **SARIMA (Seasonal ARIMA)**
+    - **LSTM for Time Series**
+    - **Facebook Prophet**
+    - **XGBoost for Time Series**
+2. **Graph-Based ML Algorithms**
+    - **Graph Neural Networks (GNNs)**
+    - **Node2Vec, DeepWalk**
+3. **Self-Supervised Learning**
+    - **SimCLR**
+    - **MoCo (Momentum Contrast)**
+    - **BYOL (Bootstrap Your Own Latent)**
+
+---

@@ -47,5 +47,5 @@ Unsupervised learning algorithms work with data that does not have labeled outpu
 To get started with this repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/<repo name>.git
-cd ML-Algorithms
+git clone https://github.com/arshraj-r/ML-Playground.git
+cd ML-Playground

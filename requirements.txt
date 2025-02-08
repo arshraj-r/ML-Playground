@@ -1,0 +1,10 @@
+#for datasets
+ucimlrepo
+
+#for machine learning
+scikit-learn
+matplotlib
+seaborn
+
+#tools
+notebook

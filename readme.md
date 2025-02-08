@@ -6,7 +6,7 @@ Welcome to the **Machine Learning Algorithms** repository! This project aims to 
 
 - [Overview](#overview)
 - [DataSets](#datasets)
-- [Algorithms](#algorithms)
+- [Notebooks](#algorithms)
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
 - [Getting Started](#getting-started)
@@ -23,14 +23,14 @@ This repository is designed for practitioners, researchers, and enthusiasts to e
 - **Unsupervised learning** algorithms work with unlabeled data and focus on finding underlying structures such as clusters or patterns in the data.
 
 ## DataSets
-I have created classes to import the data and split it into train-test. These classes are further used in my codes to import data.
-The Sorces used for Data are:
-# Popular Datasets for Regression
+I have created classes to import the data and split it into train-test. These classes are further used in my codes to import data. I have used some of the pouplar opensource frameworks for sharing datasets.
+
+### Popular Datasets for Regression
 
 Here are some popular datasets for regression available from various sources:
 
-1. **[Scikit-learn Datasets](https://scikit-learn.org/stable/datasets/)**
-   - Includes datasets like the **Boston Housing**, **Diabetes**, and **California Housing** datasets.
+1. **[Scikit-learn Datasets](https://scikit-learn.org/stable/datasets)**
+   - Includes datasets like the **20NewsGroups**, **Iris**, **Diabetes**, and **California Housing** datasets.
 
 2. **[Kaggle Datasets](https://www.kaggle.com/datasets)**
    - Kaggle offers a variety of datasets for regression tasks, including **House Prices** and **Titanic**.
